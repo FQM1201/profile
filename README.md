@@ -1,4 +1,4 @@
-- 👋 Hi, I’m FengQiMei.
+- 👋 Hi, I’m FengQiMei, a creative frontend developer.
 
 <!---
 This is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
